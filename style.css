@@ -9,3 +9,8 @@
 .lightbox{border:0;padding:0;background:transparent;max-width:min(1100px,92vw);max-height:92vh;color:#f5f7ef}.lightbox::backdrop{background:rgba(10,30,26,.88)}.lightbox img{display:block;max-width:100%;max-height:80vh;margin:0 auto;border-radius:3px}.lightbox-caption{margin:12px 0 0;font-size:.9rem;color:#d7e2d9;text-align:center}.lightbox-close{position:fixed;top:18px;right:22px;width:42px;height:42px;border-radius:50%;border:1px solid #6f8c81;background:#173b36;color:#fff;font-size:1rem;cursor:pointer}
 @media(max-width:900px){.gallery{grid-template-columns:repeat(2,1fr)}.photo-featured{grid-row:auto}.photo-featured .photo-open{min-height:0;aspect-ratio:16/10}}
 @media(max-width:600px){.gallery{grid-template-columns:1fr}.photo-featured{grid-column:auto}}
+.about-portrait{display:block;width:100%;max-width:300px;height:auto;margin-top:32px;border-radius:4px;border:1px solid var(--line)}
+@media(max-width:600px){.about-portrait{max-width:220px;margin-top:20px}}
+.photo-wide{grid-column:span 2}.photo-wide .photo-open{aspect-ratio:16/9}
+@media(max-width:900px){.photo-wide{grid-column:auto}.photo-wide .photo-open{aspect-ratio:4/3}}
+.photo-wide img{object-position:center 18%}
