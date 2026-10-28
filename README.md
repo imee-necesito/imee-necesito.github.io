@@ -4,12 +4,12 @@ This is a responsive, single-page portfolio starter for GitHub Pages.
 
 ## Publish it
 
-1. Create a **public** repository named exactly `ahyimi.github.io` under the GitHub account `ahyimi`.
+1. Create a **public** repository named exactly `imee-necesito.github.io` under the GitHub account `imee-necesito`.
 2. Upload `index.html`, `style.css`, and this `README.md` to the repository's root (top level).
 3. In the repository, open **Settings → Pages**.
 4. Under **Build and deployment**, choose **Deploy from a branch**.
 5. Choose branch **main** and folder **/(root)**, then click **Save**.
-6. Wait a few minutes, then visit `https://ahyimi.github.io/`.
+6. Wait a few minutes, then visit `https://imee-necesito.github.io/`.
 
 ## Before publishing
 
