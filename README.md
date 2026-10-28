@@ -1,4 +1,4 @@
-# Imee V. Necesito — personal website
+# Imee V. Necesito (Personal Website)
 
 This is a responsive, single-page portfolio starter for GitHub Pages.
 
