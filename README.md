@@ -16,7 +16,7 @@ I believe that data should do more than describe the past. It should help us ant
 
 My goal is to connect **science, technology, and risk intelligence** to develop solutions that make communities, infrastructure, and financial systems more resilient to a changing climate.
 
----
+
 
 ### Let's Connect!
 
@@ -24,5 +24,5 @@ I'm always interested in connecting with researchers, industry professionals, an
 
 **Let's turn data into insight, insight into action, and uncertainty into informed decisions.**
 
----
+
 *Thanks for visiting my GitHub profile!*
